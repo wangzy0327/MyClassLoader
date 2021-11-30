@@ -12,7 +12,7 @@ Thumbs.db
 #####################
 # Java Ignore files #
 #####################
-*.class
+# *.class
 
 #####################
 # C++ Ignore files #
